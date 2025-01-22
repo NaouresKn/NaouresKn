@@ -39,8 +39,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer and innovator with
 
 ## 💬 Let's Connect
 
-- 💻 [Portfolio](https://yourportfolio.com)
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+
+- 📫 Email: [knaninaoures5@gmail.com](mailto:knaninaoures5@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naouresknani/)
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and get in touch for collaboration or discussions.
